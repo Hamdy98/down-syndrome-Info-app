@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/down-syndrome-Info-app/static/css/main.9cffc22d.css",
+    "main.js": "/down-syndrome-Info-app/static/js/main.9059f302.js",
+    "static/media/childrendownsyndrome-9.jpeg": "/down-syndrome-Info-app/static/media/childrendownsyndrome-9.232420af79ef028c9b61.jpeg",
+    "index.html": "/down-syndrome-Info-app/index.html",
+    "main.9cffc22d.css.map": "/down-syndrome-Info-app/static/css/main.9cffc22d.css.map",
+    "main.9059f302.js.map": "/down-syndrome-Info-app/static/js/main.9059f302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cffc22d.css",
+    "static/js/main.9059f302.js"
+  ]
+}
