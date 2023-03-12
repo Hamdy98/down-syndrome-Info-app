@@ -15,6 +15,7 @@ function App() {
       <Header/>
       <main className='Py-4'>
         <Routes>
+          <Route path='/down-syndrome-Info-app' element={<HomeScreen/>}/>
           <Route path='/' element={<HomeScreen/>}/>
           <Route path='/EducationAndFamilyScreen' element={<EducationAndFamilyScreen/>}/>
           <Route path='/ChildhoodScreen' element={<ChildhoodScreen/>}/>
